@@ -1,4 +1,5 @@
-🏥 Project 2: Healthcare KPI Analysis – Lowell General Hospital
+🏥 Healthcare KPI Analysis – Lowell General Hospital
+
 📌 Problem Statement
 
 Lowell General Hospital sought to improve patient safety and satisfaction by tracking critical KPIs, but leadership lacked structured insights into trends and correlations. Key challenges included:
